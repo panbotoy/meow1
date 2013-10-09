@@ -20,4 +20,6 @@ public class MainActivity extends Activity {
         return true;
     }
     
+    //stella == lola == true
+    
 }
