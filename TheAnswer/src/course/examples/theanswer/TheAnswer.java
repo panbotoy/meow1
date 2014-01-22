@@ -23,7 +23,7 @@ public class TheAnswer extends Activity {
 		answerView
 				.setText("?? The answer to life, the universe and everything is:\n\n"
 						+ output);
-	}
+	} 
 
 	private int findAnswer() {
 		for (int val : answers) {
