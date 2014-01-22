@@ -5,6 +5,7 @@ import android.os.Bundle;
 import android.util.Log;
 import android.widget.TextView;
 
+//Made changes in a new branch
 public class TheAnswer extends Activity {
 	private final String TAG = "theAnswer";
 	public static final int[] answers = { 42, -10, 0, 100, 1000 };
